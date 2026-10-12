@@ -1,2 +1,1 @@
-# BNK
- https://samezawa94.github.io/BNK/
+https://ljbdev.github.io/BNK/
